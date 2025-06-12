@@ -39,13 +39,6 @@
 
 ###
 
-<div align="left">
-  <img src="elsoulimontassar@gmail.com" height="35" alt="gmail logo"  />
-  <img src="https://www.linkedin.com/in/montassar-souli/" height="35" alt="linkedin logo"  />
-</div>
-
-###
-
 <br clear="both">
 
 <picture>
